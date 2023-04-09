@@ -1,0 +1,10 @@
+C:\Users\ayand\OneDrive\Desktop\Projects\Picture Slide Puzzle\Picture Slide Puzzle\bin\Debug\Picture Slide Puzzle.exe.config
+C:\Users\ayand\OneDrive\Desktop\Projects\Picture Slide Puzzle\Picture Slide Puzzle\bin\Debug\Picture Slide Puzzle.exe
+C:\Users\ayand\OneDrive\Desktop\Projects\Picture Slide Puzzle\Picture Slide Puzzle\bin\Debug\Picture Slide Puzzle.pdb
+C:\Users\ayand\OneDrive\Desktop\Projects\Picture Slide Puzzle\Picture Slide Puzzle\obj\Debug\Picture Slide Puzzle.csproj.AssemblyReference.cache
+C:\Users\ayand\OneDrive\Desktop\Projects\Picture Slide Puzzle\Picture Slide Puzzle\obj\Debug\Picture_Slide_Puzzle.Form1.resources
+C:\Users\ayand\OneDrive\Desktop\Projects\Picture Slide Puzzle\Picture Slide Puzzle\obj\Debug\Picture_Slide_Puzzle.Properties.Resources.resources
+C:\Users\ayand\OneDrive\Desktop\Projects\Picture Slide Puzzle\Picture Slide Puzzle\obj\Debug\Picture Slide Puzzle.csproj.GenerateResource.cache
+C:\Users\ayand\OneDrive\Desktop\Projects\Picture Slide Puzzle\Picture Slide Puzzle\obj\Debug\Picture Slide Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\ayand\OneDrive\Desktop\Projects\Picture Slide Puzzle\Picture Slide Puzzle\obj\Debug\Picture Slide Puzzle.exe
+C:\Users\ayand\OneDrive\Desktop\Projects\Picture Slide Puzzle\Picture Slide Puzzle\obj\Debug\Picture Slide Puzzle.pdb
