@@ -7,3 +7,5 @@ The game has all the picture pieces as objects.
 Each piece knows its image and number in the sequence.
 Clicking on the image next to the blank square swaps the image and blank piece.
 Implemented a shuffle method that shuffles pieces by a given number of times.
+Can change the number of pieces but changing num in Form1.cs (num x num board)
+Can use custom image (make sure image is 1:1, make sure imgSize in Form1 is the image width or height)
